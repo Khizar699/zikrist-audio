@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "tag": "azan-v1",
+  "defaultVoice": "london",
+  "defaultFajrVoice": "malmo",
+  "voices": [
+    {
+      "id": "london",
+      "name": "Marylebone Mosque",
+      "place": "London",
+      "muezzin": null,
+      "form": "sunni15",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freesound.org/people/Emanuele_Correani/sounds/459704/",
+      "attribution": "“Islamic Call to Prayer - Mosque Marylebone” by Emanuele_Correani, CC0 1.0, via freesound.org",
+      "regular": {
+        "full": {
+          "path": "azan/london/full.m4a",
+          "bytes": 1414815,
+          "md5": "f1dfc308bc97e483bd2ede01fdba8327",
+          "seconds": 116.1
+        },
+        "clip": {
+          "path": "azan/london/clip.caf",
+          "bytes": 316862,
+          "md5": "df5995dff3ccd480f3806282f6feba3a",
+          "seconds": 26.7
+        },
+        "shortEndSec": 16.9,
+        "phrases": [
+          0.4,
+          5.6,
+          21.3,
+          28.2,
+          36.8,
+          45.2,
+          56.2,
+          63.1,
+          73.9,
+          80.3,
+          99.0,
+          108.3
+        ]
+      },
+      "fajr": null
+    },
+    {
+      "id": "nabawi",
+      "name": "Masjid an-Nabawi",
+      "place": "Madinah",
+      "muezzin": null,
+      "form": "sunni15",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:33937_ejaz215_call-to-prayer-from-the-prophet-s-mo.ogg",
+      "attribution": "“Call to Prayer from the Prophet's Mosque” by ejaz215, CC BY 3.0 (freesound #33937, via Wikimedia Commons); trimmed and re-encoded",
+      "regular": {
+        "full": {
+          "path": "azan/nabawi/full.m4a",
+          "bytes": 2263880,
+          "md5": "b37795418e5d1156f3f9f5b1027aa5b4",
+          "seconds": 185.9
+        },
+        "clip": {
+          "path": "azan/nabawi/clip.caf",
+          "bytes": 208878,
+          "md5": "56623f5b92a9db31c963f4792e589bd6",
+          "seconds": 17.5
+        },
+        "shortEndSec": 16.9,
+        "phrases": [
+          0.4,
+          19.8,
+          37.8,
+          52.4,
+          71.6,
+          86.0,
+          107.0,
+          118.5,
+          133.7,
+          145.3,
+          160.7,
+          176.4
+        ]
+      },
+      "fajr": null
+    },
+    {
+      "id": "shalkar",
+      "name": "Matey Qoqanuly Mosque",
+      "place": "Shalkar, Kazakhstan",
+      "muezzin": null,
+      "form": "sunni15",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adhan_in_Shalqar_mosque.webm",
+      "attribution": "“Adhan in Shalqar mosque” by Esetok, CC BY-SA 4.0, via Wikimedia Commons; audio trimmed and re-encoded",
+      "regular": {
+        "full": {
+          "path": "azan/shalkar/full.m4a",
+          "bytes": 1591182,
+          "md5": "17611a1b44dc03f6306a8050fa54ac64",
+          "seconds": 130.6
+        },
+        "clip": {
+          "path": "azan/shalkar/clip.caf",
+          "bytes": 261340,
+          "md5": "7a577ea70d2612b04a2c60b7ff963c6d",
+          "seconds": 22.0
+        },
+        "shortEndSec": 21.4,
+        "phrases": [
+          0.4,
+          10.2,
+          23.4,
+          34.4,
+          47.8,
+          59.3,
+          71.3,
+          79.1,
+          88.7,
+          96.4,
+          107.4,
+          120.8
+        ]
+      },
+      "fajr": null
+    },
+    {
+      "id": "aaqib",
+      "name": "Aaqib Azeez",
+      "place": "Recorded for Wikimedia Commons",
+      "muezzin": "Aaqib Azeez",
+      "form": "sunni15",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Adhan_-_Muslim_Call_to_Prayer_-_Aaqib_Azeez.mp3",
+      "attribution": "“The Adhan - Muslim Call to Prayer” by Aaqib Azeez (Atcovi), CC BY-SA 4.0, via Wikimedia Commons; trimmed and re-encoded",
+      "regular": {
+        "full": {
+          "path": "azan/aaqib/full.m4a",
+          "bytes": 1024757,
+          "md5": "aa7d420382ed09954d5c45a1074ecc65",
+          "seconds": 84.1
+        },
+        "clip": {
+          "path": "azan/aaqib/clip.caf",
+          "bytes": 318528,
+          "md5": "1de8f1a850a63a78d389941b2beeb484",
+          "seconds": 26.8
+        },
+        "shortEndSec": 10.6,
+        "phrases": [
+          0.4,
+          5.9,
+          11.3,
+          18.9,
+          28.6,
+          37.4,
+          47.6,
+          53.5,
+          60.0,
+          65.5,
+          71.8,
+          77.4
+        ]
+      },
+      "fajr": null
+    },
+    {
+      "id": "malmo",
+      "name": "Malmö Mosque",
+      "place": "Malmö, Sweden",
+      "muezzin": "Besim Azemi",
+      "form": "sunni15",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eid_al-Fitr_Fajr_azan_at_Malm%C3%B6_Mosque_-_19_August_2012.webm",
+      "attribution": "“Eid al-Fitr Fajr azan at Malmö Mosque - 19 August 2012” by Islamic Center Malmö (muezzin Besim Azemi), CC BY 3.0, via Wikimedia Commons; audio trimmed and re-encoded",
+      "regular": null,
+      "fajr": {
+        "full": {
+          "path": "azan/malmo/fajr.m4a",
+          "bytes": 2794948,
+          "md5": "83041aef740ce2b70f649233f99b5fde",
+          "seconds": 229.5
+        },
+        "clip": {
+          "path": "azan/malmo/fajr-clip.caf",
+          "bytes": 261578,
+          "md5": "8f48b2bcf01fb7eecc0be6bffcb04273",
+          "seconds": 22.0
+        },
+        "shortEndSec": 21.4,
+        "phrases": [
+          0.4,
+          8.5,
+          26.4,
+          47.7,
+          67.9,
+          88.5,
+          108.1,
+          127.8,
+          146.6,
+          165.7,
+          183.6,
+          193.5,
+          204.9,
+          218.4
+        ]
+      }
+    },
+    {
+      "id": "ghana",
+      "name": "A mosque in Ghana",
+      "place": "Ghana",
+      "muezzin": null,
+      "form": "sunni15",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Athan_during_Ramadan_2.wav",
+      "attribution": "“Athan during Ramadan 2” by daSupremo, CC BY-SA 4.0, via Wikimedia Commons (Wiki Loves Ramadan 2026); trimmed and re-encoded",
+      "regular": null,
+      "fajr": {
+        "full": {
+          "path": "azan/ghana/fajr.m4a",
+          "bytes": 1013451,
+          "md5": "af3c68b3811347b4d35c37fc25cc9dc2",
+          "seconds": 83.1
+        },
+        "clip": {
+          "path": "azan/ghana/fajr-clip.caf",
+          "bytes": 286670,
+          "md5": "1d80be4cff34e3cdf61a1cae4e7a5c19",
+          "seconds": 24.1
+        },
+        "shortEndSec": 12.9,
+        "phrases": [
+          0.4,
+          7.7,
+          14.1,
+          19.2,
+          24.5,
+          30.8,
+          37.3,
+          42.1,
+          46.9,
+          51.5,
+          56.2,
+          63.5,
+          70.6,
+          76.7
+        ]
+      }
+    }
+  ]
+}
